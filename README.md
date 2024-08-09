@@ -35,7 +35,7 @@ Welcome to my GitHub profile! I'm a passionate Data Scientist with a background 
 
 - **Email**: piyush.singh.office@gmail.com
 - **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/piyushsinghofficial/)
-- **Website**: [Explore my website](www.piyushsingh.in)
+- **Website**: [Explore my website](https://www.piyushsingh.in)
 
 ### ✨ Fun Fact:
 
