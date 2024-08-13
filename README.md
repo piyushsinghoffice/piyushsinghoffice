@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate Data Scientist with a background 
 
 ### 🌱 What I'm learning:
 
-- **Cryptography**: Diving into the world of cryptographic algorithms and protocols.
+- **DSA**: Improving my skills in Data Structures and Algorithms.
 - **Nuclear & Quantum Physics**: Expanding my knowledge in these fascinating fields.
 - **Scalable Systems on AWS**: Optimizing the deployment of applications on AWS, focusing on scalability and cost-effectiveness.
 
